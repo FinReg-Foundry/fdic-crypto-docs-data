@@ -5,7 +5,6 @@
 This repository contains document data that comprises the [FDIC Crypto Documents](https://finreg-foundry.github.io/fdic-crypto-documents/) collection, created by the FDIC Crypto "Pause Letters" project. Specifically, it includes:
 - The processed and coverted documents in markdown format
 - The PDF versions of the documents reassembled from individual page images created from the original PDF
-- The individual page images created from the original PDF
 
 The data is intended to help the financial services, technology, and legal communities better understand the FDIC's approach to regulating crypto-related activities and to learn from the unusual trove of documents that lift the veil on the confidential supervisory process. Interested parties are welcome to use this data for research and analysis. The data is provided "as is" and without any warranty. Please see the [LICENSE](LICENSE) file for more information. The original files released by the FDIC can be found at the [FDIC FOIA Reading Room](https://www.fdic.gov/foia/foia-reading-room).
 
